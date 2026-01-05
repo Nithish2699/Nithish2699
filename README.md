@@ -1,16 +1,56 @@
-## Hi there 👋
+## 👋 Hi, I'm Nithish Sagiraju
 
-<!--
-**Nithish2699/Nithish2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **DevOps & Site Reliability Engineer** with hands-on experience in building scalable infrastructure and automation frameworks.  
+My focus is on **cloud-native technologies, reliability engineering, and infrastructure as code**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Core Skills
+
+- **Cloud Platforms:** Google Cloud Platform (GCP)
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform
+- **CI/CD:** GitHub Actions, Jenkins (if applicable)
+- **Scripting:** Bash, Python  
+- **Observability:** Monitoring & logging (Prometheus, Grafana — if relevant)
+- **Version Control:** Git & GitHub collaboration
+
+---
+
+### 🚀 Highlights
+
+- Designed and deployed production-grade Kubernetes environments.
+- Automated infrastructure provisioning using Terraform.
+- Built CI/CD pipelines that improved deployment velocity.
+- Authored detailed documentation and runbooks for project handoffs.
+
+---
+
+### 📌 Featured Projects
+
+Below are some of my key repositories. Click through to explore details, architecture, and usage.
+
+| Project | Description |
+|--------|-------------|
+| **Project-A** | Fully automated Kubernetes cluster deployment with Terraform |
+| **Project-B** | CI/CD pipeline templates for microservices |
+| **Project-C** | Observability dashboards & alerting setup |
+
+*(Replace with your own projects and links)*
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish2699&show_icons=true&theme=dark)
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn — www.linkedin.com/in/nithish-sagiraju
+- Email — nithishraju2699@gmail.com
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
