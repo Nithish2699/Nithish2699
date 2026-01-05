@@ -1,49 +1,65 @@
-## 👋 Hi, I'm Nithish Sagiraju
+# Hi, I'm Nithish Sagiraju 👋  
+**Site Reliability Engineer | DevOps | Cloud Infrastructure**
 
-I am a passionate **DevOps & Site Reliability Engineer** with hands-on experience in building scalable infrastructure and automation frameworks.  
-My focus is on **cloud-native technologies, reliability engineering, and infrastructure as code**.
+I build and operate **reliable, scalable cloud-native platforms** with a strong focus on **automation, observability, and incident resilience**.  
+My work is centered on applying **real-world SRE principles**, not just tool usage.
 
 ---
 
-### 🔧 Core Skills
+## 🔧 Core Expertise
 
-- **Cloud Platforms:** Google Cloud Platform (GCP)
-- **Containerization & Orchestration:** Docker, Kubernetes
+- **Cloud:** Google Cloud Platform (GCP)
+- **Containers & Orchestration:** Kubernetes, Docker
 - **Infrastructure as Code:** Terraform
-- **CI/CD:** GitHub Actions, Jenkins (if applicable)
-- **Scripting:** Bash, Python  
-- **Observability:** Monitoring & logging (Prometheus, Grafana — if relevant)
-- **Version Control:** Git & GitHub collaboration
+- **CI/CD:** GitHub Actions
+- **Automation & Scripting:** Python, Bash
+- **Observability:** Prometheus, Grafana
+- **Reliability Practices:** SLOs, MTTR reduction, incident response
 
 ---
 
-### 🚀 Highlights
+## 💼 Professional Experience Snapshot
 
-- Designed and deployed production-grade Kubernetes environments.
-- Automated infrastructure provisioning using Terraform.
-- Built CI/CD pipelines that improved deployment velocity.
-- Authored detailed documentation and runbooks for project handoffs.
-
----
-
-### 📌 Featured Projects
-
-Below are some of my key repositories. Click through to explore details, architecture, and usage.
-
-| Project | Description |
-|--------|-------------|
-| **Project-A** | Fully automated Kubernetes cluster deployment with Terraform |
-| **Project-B** | CI/CD pipeline templates for microservices |
-| **Project-C** | Observability dashboards & alerting setup |
-
-*(Replace with your own projects and links)*
----
-
-### 📫 Connect With Me
-
-- LinkedIn — www.linkedin.com/in/nithish-sagiraju
-- Email — nithishraju2699@gmail.com
+- Operated and supported **production-grade Kubernetes platforms** in cloud environments  
+- Acted as **incident responder for SEV-1 / SEV-2 issues**, ensuring rapid recovery and root cause analysis  
+- Implemented **monitoring, alerting, and dashboards** to improve system visibility  
+- Automated infrastructure provisioning and deployments using **Terraform and CI/CD pipelines**  
+- Focused on **reliability engineering outcomes**: stability, predictability, and operational excellence
 
 ---
 
-Thank you for visiting my GitHub profile! 🚀
+## 🚀 Featured Project
+
+### 🔹 Integrated SRE Platform  
+📌 Repository: `sre-integrated-project`
+
+A **hands-on, end-to-end SRE implementation** that demonstrates how modern reliability engineering is applied in real systems.
+
+**What this project showcases:**
+- Cloud infrastructure provisioning using **Terraform**
+- Kubernetes-based service deployment with health checks
+- **Observability stack** (metrics, dashboards, alerts)
+- Incident-readiness and operational workflows
+- **Progressive delivery** using Argo Rollouts (canary-based deployments)
+
+This project is structured to reflect **how SRE is practiced in production environments**, from foundational setup to advanced deployment safety.
+
+👉 (https://github.com/Nithish2699/sre-integrated-project)
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish2699&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: www.linkedin.com/in/nithish-sagiraju
+- Email: nithishraju2699@gmail.com
+
+---
+
+⭐ If you’re a recruiter or engineer reviewing this profile:  
+my repositories focus on **design decisions, reliability thinking, and production readiness**.
