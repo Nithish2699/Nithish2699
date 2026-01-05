@@ -48,12 +48,6 @@ This project is structured to reflect **how SRE is practiced in production envir
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish2699&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Connect
 
 - LinkedIn: www.linkedin.com/in/nithish-sagiraju
