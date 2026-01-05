@@ -37,13 +37,6 @@ Below are some of my key repositories. Click through to explore details, archite
 | **Project-C** | Observability dashboards & alerting setup |
 
 *(Replace with your own projects and links)*
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish2699&show_icons=true&theme=dark)
-
 ---
 
 ### 📫 Connect With Me
